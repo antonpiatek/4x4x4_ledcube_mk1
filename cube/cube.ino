@@ -46,7 +46,7 @@ void loop() {
     //Random pattern - seems a nice enough demo to begin with
     sendBytes(random(0,255),random(0,255));
     digitalWrite(outPins[random(0,4)],1);
-    delay(50); 
+    delay(80); 
     digitalWrite(outPins[random(0,4)],0);
 }
 

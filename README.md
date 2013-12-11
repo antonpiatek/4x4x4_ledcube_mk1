@@ -2,3 +2,6 @@
 =================
 
 arduino and shift register powered 4x4x4 ledcube
+
+
+MIT License: http://anton.mit-license.org/
